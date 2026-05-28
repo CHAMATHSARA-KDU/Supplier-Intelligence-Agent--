@@ -1,10 +1,10 @@
-# Supplier-Intelligence-Agent--
+# Supplier Intelligence-Agent
  Overview
-The Supplier Intelligence Agent is a fully autonomous AI system that eliminates manual supplier due diligence in supply chain management. What traditionally takes procurement teams 2–3 weeks of manual research, this agent completes in under 60 seconds — automatically.
+The Supplier Intelligence Agent is a fully autonomous AI system that eliminates manual supplier due diligence in supply chain management. What traditionally takes procurement teams 2–3 weeks of manual research, this agent completes in under 60 seconds automatically.
 Given a single supplier name, the agent independently researches reputation, financial health, geo-political risks, and delivery performance using live web intelligence. It then scores the supplier, generates a professional PDF report, and emails it to the procurement manager — all without any human intervention.
 
  The Business Problem
-Before signing any supplier contract, companies must conduct due diligence — a thorough background investigation covering:
+Before signing any supplier contract, companies must conduct due diligence  a thorough background investigation covering:
 
 Is the supplier reputable? Any complaints, scandals, or quality issues?
 Are they financially stable? Any bankruptcy or insolvency risks?
